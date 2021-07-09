@@ -45,3 +45,5 @@ class Pet:
 
 luke = Ninja("Luke", "Skywalker", "Blue Milk", "Oil", "R2D2")
 R2D2 = Pet("R2D2", "Astromech Droid", "unlock blast doors")
+
+# luke.feed().walk().bathe()
