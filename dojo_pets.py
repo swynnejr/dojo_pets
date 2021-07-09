@@ -40,3 +40,8 @@ class Pet:
 # noise() - prints out the pet's sound
     def noise():
         print("Beach Boys best selling album")
+
+
+
+luke = Ninja("Luke", "Skywalker", "Blue Milk", "Oil", "R2D2")
+R2D2 = Pet("R2D2", "Astromech Droid", "unlock blast doors")
